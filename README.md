@@ -454,4 +454,4 @@ bcdedit /deletevalue useplatformclock
 
 ---
 
-*Tài liệu được tổng hợp, kiểm nghiệm thực tế và hoàn thiện phục vụ cộng đồng công nghệ.*
+*Tài liệu được tổng hợp, kiểm nghiệm thực tế và hoàn thiện phục vụ cộng đồng.*
